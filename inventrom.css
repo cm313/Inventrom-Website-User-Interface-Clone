@@ -1,0 +1,141 @@
+
+.logo{
+	display:  inline-block;
+	margin-left: 18%;
+}
+.links{
+	margin-left: 300px;
+	display: inline-block;
+}
+.links a{
+	padding: 15px;
+	display: inline-block;
+	font-size: 20px;
+	color: #A9A9A9 ;
+}
+a:hover{
+    color: #0a0a0a;
+	}
+.firstbody{
+	background-image:url("background-layer.png");
+	height: 500px;
+	color: white;
+	text-align: center;
+	padding-top:18% ;
+	font-size: 40px;
+
+}
+.middlebody{
+text-align:center;
+}
+.pic1{
+	display: inline-block;
+	text-align: left;
+	font-size:small ;
+}
+.pic2{
+	display: inline-block;
+	padding-left: 200px;
+	text-align: left;
+	font-size:small ;
+}
+.middlebody2{
+	text-align: center;
+	background-color: #F5F5F5;
+	height: 400px;
+}
+.pics{
+	vertical-align: top;
+	display: inline-block;
+	text-align: center;
+	font-size:10px ;
+}
+.middlebody3{
+	padding-top: 10px;
+	background-color: #F5F5F5;
+	height: 700px;
+}
+.personaldata{
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 100px;
+	vertical-align: top;
+}
+.sec{
+	margin-bottom: 30px;
+}
+.textbox-info{
+  display: inline-block;
+	margin-right: 50px;
+}
+.textbox-info p{
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-size: 14px;
+	font-family: "arial";
+}
+.textbox{
+	padding: 15px 30px 15px 5px;
+	border: 1px solid rgba(149, 146, 146,0.5);
+	border-radius: 15px;
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+}
+.message-info{
+	font-family: arial;
+	font-size: 14px;
+}
+.message-box{
+	padding: 5px 280px 50px 5px;
+	border: 1px solid rgba(149, 146, 146,0.5);
+	border-radius: 15px;
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15);
+}
+.privacy-policy{
+	display: inline-block;
+  width: 450px;
+	line-height: 20px;
+	font-family: arial;
+	font-size: 14px;
+}
+.locations{
+	display: inline-block;
+}
+.foot{
+	height: 80px;
+	width: 100%;
+	color: white;
+	background-color:#006400;
+	margin-bottom: 0px;
+}
+.foot p{
+	padding-top:30px;
+	padding-left: 150px;
+}
+span a{
+	padding: 10px;
+	position: relative;
+	bottom: 30px;
+}
+.click-button{
+	padding: 15px 15px;
+	background-color: rgb(149, 146, 146);
+	color: white;
+	border: none;
+	border-radius: 50px;
+	cursor: pointer;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 700;
+}
+.click-button:hover{
+	color: black;
+}
+.submit-but{
+	padding: 13px 25px;
+	background-color: rgb(0,0,0);
+	color: white;
+	font-weight: bold;
+	border: none;
+	border-radius: 15px;
+	cursor: pointer;
+	font-size: 15px; 
+}
